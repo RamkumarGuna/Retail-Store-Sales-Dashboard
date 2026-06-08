@@ -1,0 +1,1 @@
+I recently developed a Retail Sales Executive Dashboard that provides a complete view of business performance through interactive visualizations and KPI tracking. The dashboard enables stakeholders to monitor revenue, profit, customer behavior, product performance, and geographical sales distribution in real time.
