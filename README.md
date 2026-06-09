@@ -14,3 +14,5 @@ I recently developed a Retail Sales Executive Dashboard that provides a complete
 ✅ Cross‑visual interactivity with slicer‑driven filtering
 
 This project sharpened my ability to independently design dashboards, apply DAX, and translate retail data into actionable insights. Looking forward to applying these skills in Data Analyst roles and contributing to data‑driven decision making.
+
+Thanks.
